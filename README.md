@@ -1,3 +1,6 @@
+[![Zrexer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zrexer&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zrexer&hide=TeX&layout=compact&theme=highcontrast)
+
 ### Hi Im Zrexer
 
 py3, node js, some html and css and a very little php :) 🌱
